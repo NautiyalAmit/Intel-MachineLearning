@@ -49,3 +49,8 @@ Supervised learning algorithms Key concepts like under- and over-fitting, regula
 - Principal Component Analysis (PCA)
 - Multidimensional Scaling (MDS)
 ##  unsupervised learning algorithms and how they can be applied to clustering and dimensionality reduction problems.
+
+## Dimensionality refers to the number of features in the dataset. Theoretically, more features should mean better models, but this is not true in practice. Too many features could result in spurious correlations, more noise, and slower performance. This week, learn algorithms that can be used to achieve a reduction in dimensionality, such as:
+
+Principal Component Analysis (PCA)
+Multidimensional Scaling (MDS)
